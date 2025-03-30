@@ -15,6 +15,7 @@ A visualization platform that displays both vessel activities and ecological imp
 
 # Links & References
 Deployment on Vercel: https://ocean-pulse.vercel.app/
+
 API documentation for the backend: https://oceanpulse.mintlify.app/
 
 ![Overlaying shipping lanes on high-density fish zones](image.png)
